@@ -1,0 +1,41 @@
+.dashboard-container {
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+  padding: 30px;
+  background: linear-gradient(145deg, #1c223b, #0a0f24);
+  color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 0 20px #00bfff;
+}
+
+.dashboard-container h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.scoreboard {
+  font-size: 24px;
+  padding: 20px;
+  background: rgba(0, 191, 255, 0.2);
+  border-radius: 10px;
+  box-shadow: 0 0 15px #00bfff;
+  margin-bottom: 20px;
+}
+
+.play-button {
+  font-size: 20px;
+  padding: 12px 25px;
+  background: #00bfff;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  box-shadow: 0 0 10px #00bfff;
+  transition: 0.3s ease;
+}
+
+.play-button:hover {
+  background: #009acd;
+  box-shadow: 0 0 15px #00bfff;
+}
