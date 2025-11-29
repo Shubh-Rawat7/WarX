@@ -37,18 +37,20 @@ npm install
 npm run dev
 ```
 
-##🎮 Controls
--Left / Right Arrow Keys – Move player
--Spacebar – Shoot bullets
--On-screen buttons – Move left/right and shoot
--Start Game – Begin gameplay
--Play Game – Navigate to game from dashboard
+## 🎮 Controls
+- **Left / Right Arrow Keys** – Move player  
+- **Spacebar** – Shoot bullets  
+- **On-screen buttons** – Move left/right and shoot  
+- **Start Game** – Begin gameplay  
+- **Play Game** – Navigate to game from dashboard  
 
-##🌐 Technologies Used
--React.js – Frontend framework
--React Router DOM – Navigation
--HTML5 Canvas – Game rendering
--CSS3 – Styling and responsive layout
--JavaScript – Game logic and state management
--LocalStorage – High score persistence
--Vite – Development server and build tool
+---
+
+## 🌐 Technologies Used
+- **React.js** – Frontend framework  
+- **React Router DOM** – Navigation  
+- **HTML5 Canvas** – Game rendering  
+- **CSS3** – Styling and responsive layout  
+- **JavaScript** – Game logic and state management  
+- **LocalStorage** – High score persistence  
+- **Vite** – Development server and build tool  
